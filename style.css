@@ -9,7 +9,9 @@ background-color: bisque;
   p{
     font-size: 20px;
   }
-  
+  a{
+    font-size: 20px;
+  }
   .hide {
     display: none;
   }
